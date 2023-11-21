@@ -19,3 +19,9 @@ _✨ Copy from Youtube [@cazz](https://www.youtube.com/@cazz) ✨_
 You may use Release | x86 build options for it.
 
 <b>I didn't test Debug | x86 build options, please test yourself! </b>
+
+## Used libraries
+
+[ImGui - 1.90 version](https://github.com/ocornut/imgui/releases/tag/v1.90)
+
+[MinHook - May 15, 2023 Fork](https://github.com/TsudaKageyu/minhook)
