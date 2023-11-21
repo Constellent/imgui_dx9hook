@@ -16,4 +16,4 @@ _✨ Copy from Youtube [@cazz]([https://github.com/TKazer/CS2_External](https://
 
 You may use Release | x86 build options for it.
 
-<b>I didn't test Debug| x86 build options, please test yourself! </b>
+<b>I didn't test Debug | x86 build options, please test yourself! </b>
