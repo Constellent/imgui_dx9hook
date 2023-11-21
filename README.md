@@ -6,7 +6,9 @@
   
 # Imgui Directx 9 Hook
 
-_✨ Copy from Youtube [@cazz]([https://github.com/TKazer/CS2_External](https://www.youtube.com/@cazz)) ✨_
+_✨ Copy from Youtube [@cazz](https://www.youtube.com/@cazz) ✨_
+
+<b>[Video: IMGUI INTERNAL DIRECTX 9 HOOK (1/2)](https://www.youtube.com/watch?v=vF5fzIDUJVw) </b>
 
 </div>
 
