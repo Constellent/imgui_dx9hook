@@ -50,9 +50,8 @@ BOOL WINAPI DllMain(HMODULE instance, DWORD reason, LPVOID reserved)
             return FALSE;
 
         CloseHandle(thread);
-        return TRUE;
     }
 
-    return FALSE;
+	return TRUE;
 
 }

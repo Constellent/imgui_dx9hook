@@ -12,7 +12,7 @@ namespace gui
 
 	// Windows
 	inline HWND window = nullptr;
-	inline WNDCLASSEX windowClass = {};
+	inline WNDCLASSEX windowClass = { };
 	inline WNDPROC originalWindowProcess = nullptr;
 
 	bool SetupWindowClass(const char* windowClassName) noexcept;

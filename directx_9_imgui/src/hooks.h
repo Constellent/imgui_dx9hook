@@ -2,13 +2,14 @@
 #include "gui.h"
 namespace hooks
 {
+
+	void Setup();
+	void Destroy() noexcept;
+
 	constexpr void* VirtualFunction(void* thisptr, size_t index) noexcept
 	{
 		return (*static_cast<void***>(thisptr))[index];
 	}
-
-	void Setup();
-	void Destroy() noexcept;
 
 	using EndSceneFn = long(__thiscall*)(void*, IDirect3DDevice9*) noexcept;
 	inline EndSceneFn EndSceneOriginal = nullptr;
