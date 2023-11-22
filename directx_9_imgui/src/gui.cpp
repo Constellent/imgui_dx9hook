@@ -181,9 +181,7 @@ void gui::Render()
 	ImGui_ImplWin32_NewFrame();
 	ImGui::NewFrame();
 
-	//g_nMenu::Render(&open);
-	ImGui::Begin("test window", &open);
-	ImGui::End();
+	g_nMenu::Render(&open);
 
 	ImGui::EndFrame();
 	ImGui::Render();
