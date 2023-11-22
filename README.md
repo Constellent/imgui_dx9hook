@@ -6,7 +6,9 @@
   
 # Imgui Directx 9 Hook
 
-_✨ Copy from Youtube [@cazz]([https://github.com/TKazer/CS2_External](https://www.youtube.com/@cazz)) ✨_
+_✨ Copy from Youtube [@cazz](https://www.youtube.com/@cazz) ✨_
+
+<b>[Video: IMGUI INTERNAL DIRECTX 9 HOOK (1/2)](https://www.youtube.com/watch?v=vF5fzIDUJVw) </b>
 
 </div>
 
@@ -16,4 +18,10 @@ _✨ Copy from Youtube [@cazz]([https://github.com/TKazer/CS2_External](https://
 
 You may use Release | x86 build options for it.
 
-<b>I didn't test Debug| x86 build options, please test yourself! </b>
+<b>I didn't test Debug | x86 build options, please test yourself! </b>
+
+## Used libraries
+
+[ImGui - 1.90 version](https://github.com/ocornut/imgui/releases/tag/v1.90)
+
+[MinHook - May 15, 2023 Fork](https://github.com/TsudaKageyu/minhook)
