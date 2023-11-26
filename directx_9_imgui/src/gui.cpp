@@ -181,6 +181,7 @@ void gui::Render()
 	ImGui_ImplWin32_NewFrame();
 	ImGui::NewFrame();
 
+	// Imgui Function
 	g_nMenu::Render(&open);
 
 	ImGui::EndFrame();

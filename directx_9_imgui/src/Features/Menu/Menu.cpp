@@ -7,8 +7,7 @@
 
 void g_nMenu::Render(bool* p_open)
 {
-	static auto Name = "Constellent.cc | CS:GO 2k18 Cheat";
-	//static auto Flags = ImGuiWindowFlags_NoTitleBar | ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoSavedSettings;
+	static auto Name = "bese menu";
 	static auto Flags = ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoSavedSettings;
 
 	ImGui::SetNextWindowSize(ImVec2(800, 800));
